@@ -76,8 +76,8 @@ Your program should produce a GUI with a label, a text field and a button as sho
 ```  
   
 ### Shape Drawing Assignment  
-  
+```  
 Write a GUI (Graphical User Interface) application that lets users select one of the two shapes and draw the shape. The user can select either a Circle, or a Triangle. After one of the shapes is selected, the user can draw it as follow:
 ¬	When Circle is selected, let the user draw a circle with two mouse clicks. The first one on the center and the second on a point on the periphery of the circle. 
 ¬	When Triangle is selected, let the user draw a triangle with three mouse clicks.
-
+```
