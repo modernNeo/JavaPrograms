@@ -33,9 +33,7 @@ Develop a program named CompanyTest that stores its employees’ information. Th
   
 ### Company Assign2  
   
-```
-¬	Use the Employee class you have created for your assignment  
-  
+```  
 Make a class Manager which inherits from Employee. Add an instance attribute department of type String. Supply a method toString that prints the manager’s name, address and department.  
 ¬	Your program should do the following:  
 	o	Create one Company object and display a GUI similar to the one displayed below.   
@@ -45,35 +43,37 @@ Make a class Manager which inherits from Employee. Add an instance attribute dep
   
 ### Date Checking Assignment  
   
+```
 Write a program which gets as input a string from a text field, representing a date in the form DD/MM/YY (for instance 03/02/01).
 Your program should produce an error message if a date item is non-numeric, is missing completely or specifies an impossible date. Ignore leap years.
 Your program should produce a GUI with a label, a text field and a button as shown below. When the Verify Date button is pressed your program should read the date from the text field and verify it.
-  
+```
   
 ### Employee Assignment  
   
+```
 ¬	Implement a class called Employee. For the purpose of this exercise, an employee has:
-o	a name,
-o	an employee number,
-o	address,
-o	salary, and
-o	a list of bonuses given to him/her
+	o	a name,
+	o	an employee number,
+	o	address,
+	o	salary, and
+	o	a list of bonuses given to him/her
 ¬	Supply appropriate constructors and public interfaces for the Employee class. Provide methods like 
-o	getName, 
-o	getEmployeeNumber, 
-o	getAddress, 
-o	getSalary, 
-o	changeAddress, 
-o	changeSalary
-o	addBonus. 
+	o	getName, 
+	o	getEmployeeNumber, 
+	o	getAddress, 
+	o	getSalary, 
+	o	changeAddress, 
+	o	changeSalary
+	o	addBonus. 
 ¬	Please note that up to 10 bonuses can be given to an employee. A bonus will be given to an employee because of good performance, so an Employee object is created first with no bonus.
 
 ¬	Supply an EmployeeTest class that tests all Employee methods. The EmployeeTest program should:
-o	Ask the user to provide information for two employees.
-o	Create two Employee objects with the information provided by the user. 
-o	Add a few bonuses to one employee.
-o	Display both employees’ information (name, address, salary, and the list of all bonuses the employee has received).
-  
+	o	Ask the user to provide information for two employees.
+	o	Create two Employee objects with the information provided by the user. 
+	o	Add a few bonuses to one employee.
+	o	Display both employees’ information (name, address, salary, and the list of all bonuses the employee has received).
+```  
   
 ### Shape Drawing Assignment  
   
