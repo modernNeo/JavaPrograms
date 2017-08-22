@@ -33,12 +33,15 @@ Develop a program named CompanyTest that stores its employees’ information. Th
   
 ### Company Assign2  
   
-¬	Use the Employee class you have created for your assignment 3. Make a class Manager which inherits from Employee. Add an instance attribute department of type String. Supply a method toString that prints the manager’s name, address and department.
-¬	Your program should do the following:
-o	Create one Company object and display a GUI similar to the one displayed below.
-o	When the “Add an Employee” button is pressed, an InputDialog box should appear to allow users enter the name and address of the employee. After that the user should be prompted to specify if the employee is a manager or not. If the employee is a manager, then the user must specify the department name. Then the new employee (or manager) should be added to the company.
-o	When the “List Employees” button is pressed, the list of all the employees added to the company must be displayed on a MessageDialogBox. 
+```
+¬	Use the Employee class you have created for your assignment  
   
+Make a class Manager which inherits from Employee. Add an instance attribute department of type String. Supply a method toString that prints the manager’s name, address and department.  
+¬	Your program should do the following:  
+	o	Create one Company object and display a GUI similar to the one displayed below.   
+	o	When the “Add an Employee” button is pressed, an InputDialog box should appear to allow users enter the name and address of the employee. After that the user should be prompted to specify if the employee is a manager or not. If the employee is a manager, then the user must specify the department name. Then the new employee (or manager) should be added to the company.  
+	o	When the “List Employees” button is pressed, the list of all the employees added to the company must be displayed on a MessageDialogBox. 
+```
   
 ### Date Checking Assignment  
   
