@@ -4,25 +4,32 @@
   
 ### Assign1  
   
+```
 Write a Java program to accept a person’s name, his/her height (in inches), and his/her weight (in pounds); convert height to centimeters and weight to kilograms and display the result. The input should be entered in one line. The input name, height and weight must be separated by a comma.  
+```
   
 ### Clock Assign1  
   
+```
 Write a graphics program (java applet) that draws a clock face with a time that the user enters in a text. (The user must enter the time in the format hh:mm using military time or a so-called “24 hour clock”)  
+```
   
 ### Clock Assign2  
   
+```
 Write a Java Graphical User Interface (GUI) application program which displays a Clock showing the hour 12:00 when it starts and then the time should advance every minute  
+```
   
 ### Company Assign1  
   
-Develop a program named CompanyTest that stores its employees’ information. The program will support the following operations:
-¬	Adding new employee to the Company,
-¬	Looking up for an existing employee,
-¬	Adding a bonus to an employee
-¬	Finding an employee with the highest salary.
-¬	Deleting an employee from Company.
-  
+```
+Develop a program named CompanyTest that stores its employees’ information. The program will support the following operations:  
+¬	Adding new employee to the Company,  
+¬	Looking up for an existing employee,  
+¬	Adding a bonus to an employee  
+¬	Finding an employee with the highest salary.  
+¬	Deleting an employee from Company.  
+```
   
 ### Company Assign2  
   
